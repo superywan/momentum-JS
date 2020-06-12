@@ -63,7 +63,7 @@ function paintTodo(text, status) {
     finBtn = document.createElement("button"),
     undoBtn = document.createElement("button");
 
-  span.innerText = text;
+  span.innerText = text + " ";
   li.appendChild(span);
 
   li.appendChild(delBtn);
