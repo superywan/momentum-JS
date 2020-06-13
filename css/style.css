@@ -15,7 +15,7 @@ body {
 
 .main-container {
   text-align: center;
-  margin: 300px auto;
+  margin: 275px auto;
   width: 50%;
   padding: 10px;
   animation: fadeIn 4s ease;
@@ -40,7 +40,7 @@ body {
   top: 50%;
   left: 0;
   width: auto;
-  height: 60%;
+  height: 80%;
   z-index: -1;
   animation: fadeIn 2s linear;
 }
@@ -56,13 +56,15 @@ body {
 
 .js-clock {
   margin-bottom: 0;
-  font-size: 90px;
+  font-size: 110px;
 }
 .js-weather {
   margin-top: 0;
+  font-size: 30px;
 }
 .js-greeting {
   margin-top: 0;
+  font-size: 20px;
 }
 
 .js-Pending,
