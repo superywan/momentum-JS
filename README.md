@@ -4,10 +4,10 @@ This is a Clone Coding of Momentum (personal dashboard featuring to-do, weather 
 
 ## Comparison
 
-original ver. Momentum 
+#### original ver. Momentum 
 ![Original Momentum page](sample/original.png)
 
 ---
 
-my ver. Momentum 
+#### my ver. Momentum 
 ![Clone Momentum page](sample/myVersion.png)
