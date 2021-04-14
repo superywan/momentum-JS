@@ -1,5 +1,5 @@
 const body = document.querySelector("body"),
-  IMG_NUM = 7;
+  IMG_NUM = 6;
 
 function paintBackground(i) {
   const img = new Image();

@@ -66,7 +66,13 @@ body {
 .js-form input,
 .js-toDoForm input {
   text-align: center;
+  margin-bottom: 20px;
 }
+
+.nameInput {
+  color: #000;
+}
+
 .js-greeting {
   margin-top: 0;
   font-size: 20px;
@@ -86,4 +92,10 @@ body {
 h5 {
   margin-bottom: 0;
   margin-top: 5px;
+}
+
+.copyright {
+  color: #000;
+  text-align: center;
+  text-transform: capitalize;
 }
